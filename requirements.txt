@@ -35,7 +35,7 @@ service-identity==21.1.0
 six==1.16.0
 social-auth-app-django==5.0.0
 social-auth-core==4.3.0
-sqlparse==0.4.2
+sqlparse==0.4.4
 Twisted==22.10.0
 txaio==22.2.1
 typing_extensions==4.3.0
