@@ -8,7 +8,7 @@ channels==3.0.5
 charset-normalizer==2.1.0
 cloudinary==1.29.0
 constantly==15.1.0
-cryptography==38.0.3
+cryptography==41.0.2
 daphne==3.0.2
 defusedxml==0.7.1
 dj-database-url==0.5.0
